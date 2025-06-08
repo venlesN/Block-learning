@@ -1,0 +1,21 @@
+{
+  "blocks": {
+    "move_right": {
+      "parameters": {
+        "steps": 3
+      },
+      "executionLogic": {},
+      "executor": {
+        "objectType": "Character",
+        "id": "hero",
+        "name": "Герой",
+        "description": "Главный герой"
+      },
+      "id": "move_right",
+      "name": "Перемещение вправо",
+      "description": "Перемещение на 3 шагов"
+    }
+  },
+  "connections": {},
+  "metadata": {}
+}
